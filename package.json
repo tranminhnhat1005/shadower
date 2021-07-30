@@ -1,5 +1,5 @@
 {
-  "name": "shadower",
+  "name": "shadower-js",
   "version": "1.0.0",
   "description": "box-shadow generator library",
   "main": "index.js",
